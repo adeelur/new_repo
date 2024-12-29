@@ -1,3 +1,3 @@
 This is updated Git file.
 Muhammad Adeel.
-This is a new change.
+This is a new change using pull.
